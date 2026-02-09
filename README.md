@@ -17,7 +17,7 @@
 
 - 消息被转发到超级群
 
-- 客服通过回复客户消息
+- 客服在超级群通过回复客户消息
 
 - 回复被转发到客户私聊
 
@@ -228,7 +228,7 @@ $ `wrangler deploy`
 
 - 没有采用话题Topic的模式，因为需要200人以上的超级群组。
 
-- 使用部署中有问题，联系 @memeBABAbot，这个就是本代码部署的双向机器人。
+- 使用部署中有问题，联系 [@memeBABAbot 机器人](https://t.me/memeBABAbot "最好的 TG-BOT-LIVEGRAM 电报机器人")
 
 ## TG-BOT-LIVEGRAM 后续计划
 
